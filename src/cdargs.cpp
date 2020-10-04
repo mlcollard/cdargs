@@ -166,7 +166,7 @@ private:
 
 } options;
 
-const string Options::DEFAULT_LIST_FILE(".config/cdargs");
+const string Options::DEFAULT_LIST_FILE(".cdargs");
 const string Options::DEFAULT_LIST_FILE_OLD(".cdargs");
 const string Options::DEFAULT_RESULT_FILE("~/.cdargsresult");
 
